@@ -44,6 +44,15 @@ I’m passionate about Machine Learning and Deep Learning. My academic backgroun
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </div>
 
+### 📖 Scientific papers
+- [Andrii V. Olieinik, abstract of a Ph.D. thesis: Nature of thermodynamic and kinetic properties of water on the liquid-vapour coexistence line \[In Ukrainian\]](http://theorphys.onu.edu.ua/uploads/sharedfiles/data/thesises/olieinik_a_2013_abstract.pdf)
+- [Andrii V. Olieinik, Ph.D. thesis: Nature of thermodynamic and kinetic properties of water on the liquid-vapour coexistence line \[In Russian\]](http://theorphys.onu.edu.ua/uploads/sharedfiles/data/thesises/olieinik_a_2013.pdf)
+- [Bardyk V.Yu., Olieinik A.V. Anomalous temperature dependence of water specific volume near the melting point. \[In Ukrainian\] // Bulletin of Taras Shevchenko National University of Kyiv. Series Physics & Mathematics. – 2012, №4 . – P. 267 – 272. ](https://bphm.knu.ua/index.php/bphm/issue/view/34/2012_4)
+- [Malomuzh N.P., Oleinik A.V. Pankratov K.M. The nature of molecular self-diffusion in argon and water. // UJP. – 2010. – 55, N10, – P. 1123 – 1127.](http://archive.ujp.bitp.kiev.ua/files/journals/55/10/551009p.pdf)
+- [Malomuzh N.P., Oleinik A.V. Nature of the kinematic shear viscosity of water. // J. Struct. Chem. – 2008. – 49, N6, – P. 1055 – 1063.](http://dx.doi.org/10.1007/s10947-008-0178-1)
+- [Fisenko A.I., Malomuzh N.P., Oleynik A.V. To what extent are thermodynamic properties of water argon-like? // CPL. – 2008. – 450, – P. 297–301.](http://dx.doi.org/10.1016/j.cplett.2007.11.036)
+- [Malomuzh N.P., Oleynik A.V., Rudenko A.P., Khlopov A.M. Nature of the kinematic shear viscosity of benzene and its derivatives. // UJP. – 2007. – 52, N10, – P. 393 – 945.](http://archive.ujp.bitp.kiev.ua/files/journals/52/10/521003p.pdf)
+
 ### 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
