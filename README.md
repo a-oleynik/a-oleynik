@@ -63,6 +63,7 @@ I’m passionate about Machine Learning and Deep Learning. My academic backgroun
 - Read my reviews of some books [Goodreads](https://www.goodreads.com/user/show/87411224-andrey-oleynik)
 - My profile on [Leetcode](https://leetcode.com/u/andreioleynik/)
 - My profile on [Coursera](https://www.coursera.org/learner/andrii-olieinik)
+- My profile on [Stackoverflow](https://stackoverflow.com/users/1701001/andrii-olieinik)
 
 ### 📊 GitHub Stats
 
