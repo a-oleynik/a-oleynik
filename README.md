@@ -55,6 +55,15 @@ I’m passionate about Machine Learning and Deep Learning. My academic backgroun
 - [Fisenko A.I., Malomuzh N.P., Oleynik A.V. To what extent are thermodynamic properties of water argon-like? // CPL. – 2008. – 450, – P. 297–301.](http://dx.doi.org/10.1016/j.cplett.2007.11.036)
 - [Malomuzh N.P., Oleynik A.V., Rudenko A.P., Khlopov A.M. Nature of the kinematic shear viscosity of benzene and its derivatives. // UJP. – 2007. – 52, N10, – P. 393 – 945.](http://archive.ujp.bitp.kiev.ua/files/journals/52/10/521003p.pdf)
 
+### 📬 Get in Touch
+
+- Connect with me on [Linkedin](https://www.linkedin.com/in/andrii-olieinik/)
+- My presentations [Slideshare](https://www.slideshare.net/oleynikandrey)
+- Read more of my articles on [Medium](https://medium.com/@andrei.oleynik)
+- Read my reviews of some books [Goodreads](https://www.goodreads.com/user/show/87411224-andrey-oleynik)
+- My profile on [Leetcode](https://leetcode.com/u/andreioleynik/)
+- My profile on [Coursera](https://www.coursera.org/learner/andrii-olieinik)
+
 ### 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
