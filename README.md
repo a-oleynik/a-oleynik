@@ -71,7 +71,7 @@ I’m passionate about Machine Learning and Deep Learning. My academic backgroun
         <img src="https://github-readme-stats.vercel.app/api?username=a-oleynik&show_icons=true&theme=tokyonight&&bg_color=00000000&hide_border=true&rank_icon=github&" alt="Andrii's GitHub Stats" height=200 align="center" />
     </div>
     <div style="flex: 1 1 50%; min-width: 150px; max-width: 30%; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-oleynik&hide=html,cmake,c++&layout=compact&bg_color=00000000&hide_border=true&langs_count=6" alt="Top Languages" height=200 align="center" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-oleynik&hide=html,cmake,jupyter%20notebook&layout=compact&bg_color=00000000&hide_border=true&langs_count=6" alt="Top Languages" height=200 align="center" />
     </div>
 </div>
 
