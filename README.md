@@ -3,6 +3,8 @@
 I'm a Senior Software Engineer in Test and QAA Architect based in Wrocław, Poland, with over 16 years of experience primarily in test automation. I specialize in developing and supporting automation frameworks and infrastructure for API, UI (Web/Desktop/Mobile), database, JMS, and performance testing. I have a proven track record in optimizing test frameworks, managing CI/CD pipelines for autotests, and leading QA teams.
 
 I’m passionate about Machine Learning and Deep Learning. My academic background includes a PhD in theoretical physics, specializing in the physics of water, from the Department of Theoretical Physics at ONU named after I.I. Mechnikov.
+
+<!--[![LeetCode user andreioleynik](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fandreioleynik&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/andreioleynik/)-->
 ![Profile Views](https://komarev.com/ghpvc/?username=a-oleynik&color=yellow&label=Views&style=for-the-badge)
 
 ### 🛠️ Skills and Technologies
