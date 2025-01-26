@@ -1,6 +1,6 @@
 ![Terminal](assets/terminal.svg)
 
-I'm a Senior Software Engineer in Test and QAA Architect based in Wrocław, Poland, with over 16 years of experience primarily in test automation. I specialize in developing and supporting automation frameworks and infrastructure for API, UI (Web/Desktop/Mobile), database, JMS, and performance testing. I have a proven track record in optimizing test frameworks, managing CI/CD pipelines for autotests, and leading QA teams.
+I'm a Senior Software Engineer in Test and QAA Architect based in Wrocław, Poland, with over 17 years of experience primarily in test automation. I specialize in developing and supporting automation frameworks and infrastructure for API, UI (Web/Desktop/Mobile), database, JMS, and performance testing. I have a proven track record in optimizing test frameworks, managing CI/CD pipelines for autotests, and leading QA teams.
 
 I’m passionate about Machine Learning and Deep Learning. My academic background includes a PhD in theoretical physics, specializing in the physics of water, from the Department of Theoretical Physics at ONU named after I.I. Mechnikov.
 
