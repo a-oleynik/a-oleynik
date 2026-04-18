@@ -22,7 +22,10 @@ I’m passionate about Machine Learning and Deep Learning. My academic backgroun
 <div style="display: flex; justify-content: center;">
 <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
 <img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
+<img src="https://img.shields.io/badge/Selenide-43B02A?style=for-the-badge&logoColor=white" alt="Selenide" />
 <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit 5" width="30px"/>
+<img src="https://img.shields.io/badge/JUnit_6-25A162?style=for-the-badge&logoColor=white" alt="JUnit 6" />
 <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Maven"/>
 <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle"/>  
 <img src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3" alt="Pytest" />   
