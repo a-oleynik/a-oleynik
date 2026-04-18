@@ -21,9 +21,13 @@ I’m passionate about Machine Learning and Deep Learning. My academic backgroun
 
 <div style="display: flex; justify-content: center;">
 <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-<img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+<img src="https://img.shields.io/badge/-playwright-%2300B4D8?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
 <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
-<img src="https://img.shields.io/badge/Selenide-43B02A?style=for-the-badge&logoColor=white" alt="Selenide" />
+<img src="https://img.shields.io/badge/Selenide-2EAD33?style=for-the-badge&logoColor=white" alt="Selenide" />
+<img src="https://img.shields.io/badge/REST_Assured-F78C40?style=for-the-badge&logoColor=white" alt="REST Assured" />
+</div>
+
+<div style="display: flex; justify-content: center;">
 <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit 5" width="30px"/>
 <img src="https://img.shields.io/badge/JUnit_6-25A162?style=for-the-badge&logoColor=white" alt="JUnit 6" />
 <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" alt="Maven"/>
@@ -47,6 +51,8 @@ I’m passionate about Machine Learning and Deep Learning. My academic backgroun
 <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="AWS Lambda" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="Azure" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 </div>
 
 ### 📖 Scientific papers
