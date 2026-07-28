@@ -102,14 +102,15 @@ I’m passionate about Machine Learning and Deep Learning. My academic backgroun
 
 ### 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
-    <div style="flex: 1 1 50%; min-width: 150px; max-width: 30%; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=a-oleynik&show_icons=true&theme=tokyonight&&bg_color=00000000&hide_border=true&rank_icon=github&" alt="Andrii's GitHub Stats" height=200 align="center" />
-    </div>
-    <div style="flex: 1 1 50%; min-width: 150px; max-width: 30%; text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-oleynik&hide=html,cmake,jupyter%20notebook&layout=compact&bg_color=00000000&hide_border=true&langs_count=6" alt="Top Languages" height=200 align="center" />
-    </div>
-</div>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a-oleynik&theme=blueberry" alt="Most Used Languages by Repository" height="200" />    
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a-oleynik&theme=blueberry" alt="Most Used Languages by Commit" height="200" />
+</p>
+
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-oleynik&theme=blueberry" alt="Andrii's GitHub Stats" height="200" />
+</p>
 
 
 <!--
