@@ -68,6 +68,7 @@ University, where my research focused on the physics of water and liquids.
 ### ✍️ Medium Articles
 
 #### English (@andrei.oleynik)
+- [What Is a Test Fixture in JUnit, and Why Is @BeforeEach Not the Fixture?](https://medium.com/@andrei.oleynik/what-is-a-test-fixture-in-junit-and-why-is-beforeeach-not-the-fixture-53f5c750270e)
 - [Maven Wrapper: Why You Need It and How to Use It](https://medium.com/javarevisited/maven-wrapper-why-you-need-it-and-how-to-use-it-bfa7619078b6)
 - [Forget WebDriverManager: Use Selenium Manager Instead](https://medium.com/javarevisited/forget-webdrivermanager-use-selenium-manager-instead-1acf7e1076f3)
 - [Serenity BDD in 2026: A Framework or Dependency Hell](https://medium.com/@andrei.oleynik/serenity-bdd-in-2026-a-framework-or-dependency-hell-015e3d16d33e)
@@ -80,6 +81,7 @@ University, where my research focused on the physics of water and liquids.
 - [Exploring the Fourth Dimension: Reflections on The Time Machine and Its Legacy](https://medium.com/@andrei.oleynik/exploring-the-fourth-dimension-reflections-on-the-time-machine-and-its-legacy-01-092ae18fa302)
 
 #### Ukrainian/Russian (@aolieinik)
+- [Что такое test fixture в JUnit и почему @BeforeEach — не fixture](https://medium.com/@aolieinik/what-is-text-fixture-in-junit-and-why-beforeeach-not-the-fixture-r-e5e7f84b056d)
 - [Maven Wrapper: зачем он нужен и как его использовать](https://medium.com/@aolieinik/maven-wrapper-why-we-need-it-and-how-to-use-it-r-beab70bcacfa)
 - [Установка и настройка Java-окружения на Windows, macOS и Ubuntu: JDK, Maven и Gradle](https://medium.com/@aolieinik/java-installation-and-set-up-on-windows-mac-and-ubuntu-jdk-maven-gradle-r-ee8afd8c97de)
 - [Забудьте про WebDriverManager: Selenium уже делает это за вас](https://medium.com/@aolieinik/forget-webdrivermanager-use-selenium-manager-5491b1a21789)
