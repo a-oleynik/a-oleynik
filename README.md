@@ -68,6 +68,7 @@ University, where my research focused on the physics of water and liquids.
 ### ✍️ Medium Articles
 
 #### English (@andrei.oleynik)
+- [Maven Surefire 3.6.0: What Happened to TestNG and testng.xml](https://medium.com/@andrei.oleynik/maven-surefire-3-6-0-what-happened-to-testng-and-testng-xml-ae5cb882d41a)
 - [What Is a Test Fixture in JUnit, and Why Is @BeforeEach Not the Fixture?](https://medium.com/@andrei.oleynik/what-is-a-test-fixture-in-junit-and-why-is-beforeeach-not-the-fixture-53f5c750270e)
 - [Maven Wrapper: Why You Need It and How to Use It](https://medium.com/javarevisited/maven-wrapper-why-you-need-it-and-how-to-use-it-bfa7619078b6)
 - [Forget WebDriverManager: Use Selenium Manager Instead](https://medium.com/javarevisited/forget-webdrivermanager-use-selenium-manager-instead-1acf7e1076f3)
@@ -81,6 +82,7 @@ University, where my research focused on the physics of water and liquids.
 - [Exploring the Fourth Dimension: Reflections on The Time Machine and Its Legacy](https://medium.com/@andrei.oleynik/exploring-the-fourth-dimension-reflections-on-the-time-machine-and-its-legacy-01-092ae18fa302)
 
 #### Ukrainian/Russian (@aolieinik)
+- [Maven Surefire 3.6.0: что произошло с TestNG и testng.xml](https://medium.com/@aolieinik/maven-surefire-3-6-0-what-happened-to-testng-and-testng-xml-r-8ad2c1e78056)
 - [Что такое test fixture в JUnit и почему @BeforeEach — не fixture](https://medium.com/@aolieinik/what-is-text-fixture-in-junit-and-why-beforeeach-not-the-fixture-r-e5e7f84b056d)
 - [Maven Wrapper: зачем он нужен и как его использовать](https://medium.com/@aolieinik/maven-wrapper-why-we-need-it-and-how-to-use-it-r-beab70bcacfa)
 - [Установка и настройка Java-окружения на Windows, macOS и Ubuntu: JDK, Maven и Gradle](https://medium.com/@aolieinik/java-installation-and-set-up-on-windows-mac-and-ubuntu-jdk-maven-gradle-r-ee8afd8c97de)
