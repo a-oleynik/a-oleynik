@@ -83,7 +83,7 @@ University, where my research focused on the physics of water and liquids.
 
 #### Ukrainian/Russian (@aolieinik)
 - [Maven Surefire 3.6.0: что произошло с TestNG и testng.xml](https://medium.com/@aolieinik/maven-surefire-3-6-0-what-happened-to-testng-and-testng-xml-r-8ad2c1e78056)
-- [Что такое test fixture в JUnit и почему @BeforeEach — не fixture](https://medium.com/@aolieinik/what-is-text-fixture-in-junit-and-why-beforeeach-not-the-fixture-r-e5e7f84b056d)
+- [Что такое тестовая фикстура в JUnit и почему @BeforeEach — не фикстура](https://medium.com/@aolieinik/what-is-text-fixture-in-junit-and-why-beforeeach-not-the-fixture-r-e5e7f84b056d)
 - [Maven Wrapper: зачем он нужен и как его использовать](https://medium.com/@aolieinik/maven-wrapper-why-we-need-it-and-how-to-use-it-r-beab70bcacfa)
 - [Установка и настройка Java-окружения на Windows, macOS и Ubuntu: JDK, Maven и Gradle](https://medium.com/@aolieinik/java-installation-and-set-up-on-windows-mac-and-ubuntu-jdk-maven-gradle-r-ee8afd8c97de)
 - [Забудьте про WebDriverManager: Selenium уже делает это за вас](https://medium.com/@aolieinik/forget-webdrivermanager-use-selenium-manager-5491b1a21789)
