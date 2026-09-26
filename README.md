@@ -73,7 +73,7 @@ University, where my research focused on the physics of water and liquids.
 - [Maven Wrapper: Why You Need It and How to Use It](https://medium.com/@andrei.oleynik/maven-wrapper-why-you-need-it-and-how-to-use-it-bfa7619078b6)
 - [Forget WebDriverManager: Use Selenium Manager Instead](https://medium.com/javarevisited/forget-webdrivermanager-use-selenium-manager-instead-1acf7e1076f3)
 - [Serenity BDD in 2026: A Framework or Dependency Hell](https://medium.com/@andrei.oleynik/serenity-bdd-in-2026-a-framework-or-dependency-hell-015e3d16d33e)
-- [TestNG XML Is a Legacy Concept: Here's What Modern Test Suites Should Look Like](https://medium.com/javarevisited/testng-xml-is-a-legacy-concept-heres-what-modern-test-suites-should-look-like-bd5cb380db61)
+- [testng.xml Is Legacy. Here’s What Modern TestNG Suites Should Look Like](https://medium.com/@andrei.oleynik/testng-xml-is-a-legacy-concept-heres-what-modern-test-suites-should-look-like-bd5cb380db61)
 - [WebDriver getAttribute() is Back: When to Use It vs getDomAttribute() and getDomProperty()](https://medium.com/javarevisited/adventures-of-getattribute-back-from-the-dead-846c31f5bcab)
 - [JUnit 6 Released — Clean-Up, Modernization & Minimal Disruption](https://medium.com/@andrei.oleynik/junit-6-released-clean-up-modernization-minimal-disruption-d3ecf11b64ad)
 - [Mastering Live Coding: Two Problems, Practical Insights (Part 1)](https://medium.com/@andrei.oleynik/mastering-live-coding-two-problems-practical-insights-part-1-015f3dd7e80c)
