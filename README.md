@@ -68,6 +68,7 @@ University, where my research focused on the physics of water and liquids.
 ### ✍️ Medium Articles
 
 #### English (@andrei.oleynik)
+- [How to Install and Set Up Java on Windows, macOS, and Ubuntu: JDK, Maven, and Gradle](https://medium.com/@andrei.oleynik/how-to-install-and-set-up-java-on-windows-macos-and-ubuntu-jdk-maven-and-gradle-728a732dd123)
 - [Maven Surefire 3.6.0: What Happened to TestNG and testng.xml](https://medium.com/@andrei.oleynik/maven-surefire-3-6-0-what-happened-to-testng-and-testng-xml-ae5cb882d41a)
 - [What Is a Test Fixture in JUnit, and Why Is @BeforeEach Not a Fixture?](https://medium.com/@andrei.oleynik/what-is-a-test-fixture-in-junit-and-why-is-beforeeach-not-the-fixture-53f5c750270e)
 - [Maven Wrapper: Why You Need It and How to Use It](https://medium.com/@andrei.oleynik/maven-wrapper-why-you-need-it-and-how-to-use-it-bfa7619078b6)
@@ -108,14 +109,15 @@ University, where my research focused on the physics of water and liquids.
 
 ### 📬 Get in Touch
 
-- Connect with me on [Linkedin](https://www.linkedin.com/in/andrii-olieinik/)
-- My presentations [Slideshare](https://www.slideshare.net/oleynikandrey)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/andrii-olieinik/)
 - Read my English-language articles on [Medium (@andrei.oleynik)](https://medium.com/@andrei.oleynik)
 - Read my Ukrainian- and Russian-language articles on [Medium (@aolieinik)](https://medium.com/@aolieinik)
-- Read my reviews of some books [Goodreads](https://www.goodreads.com/user/show/87411224-andrey-oleynik)
-- My profile on [Leetcode](https://leetcode.com/u/andreioleynik/)
-- My profile on [Coursera](https://www.coursera.org/learner/andrii-olieinik)
-- My profile on [Stackoverflow](https://stackoverflow.com/users/1701001/andrii-olieinik)
+- Follow me on [Threads](https://www.threads.com/@andrei.oleynik)
+- Follow me on [X (Twitter)](https://x.com/odessaphysicist)
+- View my presentations on [SlideShare](https://www.slideshare.net/oleynikandrey)
+- Find me on [Stack Overflow](https://stackoverflow.com/users/1701001/andrii-olieinik)
+- View my solutions on [LeetCode](https://leetcode.com/u/andreioleynik/)
+- Read my book reviews on [Goodreads](https://www.goodreads.com/user/show/87411224-andrey-oleynik)
 
 ### 📊 GitHub Stats
 
