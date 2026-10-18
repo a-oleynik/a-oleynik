@@ -68,6 +68,7 @@ University, where my research focused on the physics of water and liquids.
 ### ✍️ Medium Articles
 
 #### English (@andrei.oleynik)
+- [JUnit 6 from Scratch: What a Test Framework Actually Does](https://medium.com/@andrei.oleynik/junit-6-from-scratch-6d4be3f04974)
 - [How to Install and Set Up Java on Windows, macOS, and Ubuntu: JDK, Maven, and Gradle](https://medium.com/@andrei.oleynik/how-to-install-and-set-up-java-on-windows-macos-and-ubuntu-jdk-maven-and-gradle-728a732dd123)
 - [Maven Surefire 3.6.0: What Happened to TestNG and testng.xml](https://medium.com/@andrei.oleynik/maven-surefire-3-6-0-what-happened-to-testng-and-testng-xml-ae5cb882d41a)
 - [What Is a Test Fixture in JUnit, and Why Is @BeforeEach Not a Fixture?](https://medium.com/@andrei.oleynik/what-is-a-test-fixture-in-junit-and-why-is-beforeeach-not-the-fixture-53f5c750270e)
@@ -83,6 +84,7 @@ University, where my research focused on the physics of water and liquids.
 - [Exploring the Fourth Dimension: Reflections on The Time Machine and Its Legacy](https://medium.com/@andrei.oleynik/exploring-the-fourth-dimension-reflections-on-the-time-machine-and-its-legacy-01-092ae18fa302)
 
 #### Ukrainian/Russian (@aolieinik)
+- [JUnit 6 с нуля: что делает тестовый фреймворк](https://medium.com/@aolieinik/junit-6-from-scratch-r-b8b3fe5e3394)
 - [Maven Surefire 3.6.0: что произошло с TestNG и testng.xml](https://medium.com/@aolieinik/maven-surefire-3-6-0-what-happened-to-testng-and-testng-xml-r-8ad2c1e78056)
 - [Что такое тестовая фикстура в JUnit и почему @BeforeEach — не фикстура](https://medium.com/@aolieinik/what-is-text-fixture-in-junit-and-why-beforeeach-not-the-fixture-r-e5e7f84b056d)
 - [Maven Wrapper: зачем он нужен и как его использовать](https://medium.com/@aolieinik/maven-wrapper-why-we-need-it-and-how-to-use-it-r-beab70bcacfa)
